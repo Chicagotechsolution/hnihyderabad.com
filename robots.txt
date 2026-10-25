@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hnihyderabad.com/sitemap.xml
